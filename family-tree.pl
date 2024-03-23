@@ -4,13 +4,14 @@ male(laxman).
 male(bharat).
 male(shatrughan).
 male(dashrath).
+male(kush).
 
 female(sita).
 female(urmila).
 female(kaushalya).
 
 wife(sita, ram).
-wife(laxman, urmila).
+wife(urmila, laxman).
 wife(kaushalya, dashrath).
 father(ram, luv).
 father(ram, kush).
